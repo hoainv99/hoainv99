@@ -3,7 +3,7 @@
 - 🔭 I'm an AI Engineer at [team AI Research, R&D Unit, Sun* company](https://sun-asterisk.vn/) 🌱!
 - 💡 I love innovation and new technologies
 - 🥅 2020 Goals: Collect and share more knowledge with others. Please see [my blog](https://viblo.asia/u/HoaiNV).
-- ⚡ Fun fact: I love gym and fishing
+- ⚡ My hobbies : travelling and discovering new place
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
