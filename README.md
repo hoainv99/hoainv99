@@ -20,7 +20,7 @@
 
 * 🗣 Keras | Pytorch
 * 🖇️ OpenCV | Pillow | Mathplotlib
-* 🛢️ MySQL
+* 🛢️ MySQL | React Native | .Net
 * :octocat: Git | Github
 * 🌐 Fast Api
 
