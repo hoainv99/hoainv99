@@ -12,7 +12,8 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![C/C++(https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+[![C(https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+[![React(https://img.shields.io/badge/-React-fff?&logo=react)](https://github.com/adamalston?tab=repositories&q=&type=&language=React)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 
 ### Framework
