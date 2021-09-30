@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Hoai 👨‍💻
 - 👨🏻‍💻 I'm a four years at Ha Noi University Of Science And Technology.
-- 🔭 I'm an AI Engineer at [team AI Research, R&D Unit, Sun* company](https://sun-asterisk.vn/) 🌱!
+- 🔭 I'm an AI Engineer at FPT.AI(https://fpt.ai/) 🌱!
 - 💡 I love innovation and new technologies
 - 🥅 2021 Goals: Collect and share more knowledge with others. Please see [my blog](https://viblo.asia/u/HoaiNV).
 - ⚡ My hobbies : travelling and discovering new place
